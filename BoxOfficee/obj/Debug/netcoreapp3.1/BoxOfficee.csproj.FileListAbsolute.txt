@@ -1,0 +1,3 @@
+C:\Users\opilane\source\repos\BoxOfficee\BoxOfficee\obj\Debug\netcoreapp3.1\BoxOfficee.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\BoxOfficee\BoxOfficee\obj\Debug\netcoreapp3.1\BoxOfficee.AssemblyInfo.cs
+C:\Users\opilane\source\repos\BoxOfficee\BoxOfficee\obj\Debug\netcoreapp3.1\BoxOfficee.csproj.CoreCompileInputs.cache
